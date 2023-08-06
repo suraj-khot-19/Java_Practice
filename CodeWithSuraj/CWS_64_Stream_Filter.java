@@ -10,7 +10,7 @@ public class CWS_64_Stream_Filter {
 
         Stream<Integer> even=list.stream().filter(n->n%2==0);
 
-        List<Integer> evenList = even.toList();
-        System.out.println(evenList);
+        List<Integer> evenLists = even.toList();
+        System.out.println(evenLists);
     }
 }
