@@ -1,6 +1,6 @@
 package CodeWithSuraj;
 
-public class COWS_72_Factorial_Recursions {
+public class CWS_72_Factorial_Recursions {
     static int fact(int n){
         if(n!=0){
             return n*fact(n-1);

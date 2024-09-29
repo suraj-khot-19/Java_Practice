@@ -3,7 +3,7 @@ package CodeWithSuraj;
 import java.util.HashSet;
 import java.util.Iterator;
 
-public class CWS_72_Hashset {
+public class CWS_76_Hashset {
     public static void main(String[] args) {
         HashSet<Integer> set=new HashSet<>();
 
