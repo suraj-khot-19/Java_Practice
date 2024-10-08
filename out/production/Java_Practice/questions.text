@@ -1,0 +1,59 @@
+Here are **30 Java coding questions** for you to solve step-by-step. They are categorized to cover various levels and concepts.
+
+---
+
+### **Core Java and Basics**
+1. Write a program to check if a number is prime.
+2. Write a program to find the factorial of a given number.
+3. Implement a program to reverse a string without using a built-in method.
+4. Check if a string is a palindrome or not.
+5. Find the largest and smallest numbers in an array.
+
+---
+
+### **Object-Oriented Programming**
+6. Create a class `Student` with fields `name`, `rollNo`, and `marks`. Write a method to display the student details.
+7. Implement method overloading for a `Calculator` class (add, subtract, multiply).
+8. Write a program to demonstrate method overriding using a parent and child class.
+9. Create an abstract class `Shape` with a method `area()` and extend it to classes `Circle` and `Rectangle`.
+10. Implement a program to demonstrate the use of interfaces.
+
+---
+
+### **Collections Framework**
+11. Write a program to count the frequency of characters in a string using `HashMap`.
+12. Create a `HashSet` to store unique numbers and print the elements.
+13. Use a `TreeMap` to sort and display a list of names with their ages.
+14. Write a program to merge two `ArrayLists` and remove duplicates.
+15. Implement a stack using `ArrayList`.
+
+---
+
+### **Java 8 Features**
+16. Write a program to use a lambda expression to sort an array of strings.
+17. Use streams to filter out even numbers from a list and collect them into another list.
+18. Write a program to demonstrate the use of `Optional` to handle null values.
+19. Implement a program to group employees by department using Java 8 streams.
+20. Write a program to find the maximum and minimum numbers in a list using streams.
+
+---
+
+### **Exception Handling**
+21. Write a program to handle `ArithmeticException` (division by zero).
+22. Create a custom exception for invalid age input in a voting system.
+23. Write a program to handle multiple exceptions using a single `catch` block.
+24. Demonstrate the use of `finally` in exception handling.
+25. Write a program to read a file and handle `IOException`.
+
+---
+
+### **Multithreading**
+26. Write a program to create a thread by extending the `Thread` class.
+27. Create a thread using the `Runnable` interface.
+28. Implement synchronization to avoid a race condition in a multithreaded program.
+29. Write a program to demonstrate the use of `wait()` and `notify()`.
+30. Use an `ExecutorService` to run multiple threads.
+
+---
+
+You can solve them one at a time. Share your answer for any question, and I’ll check it for you. 😊
